@@ -6,7 +6,7 @@ export const PROJECTS = [
         type: "Library",
         date: "Febrero 2023",
         client: "Open Source",
-        description: "Es una librería Open-Source escrita en Java 17, que traduce y convierte documentos EDIx12 a JSON, lenguaje natural y clases Java. Es una librería pensada para la comunidad de desarrolladores que brindan soluciones a transportistas.",
+        description: "Es una librería Open-Source escrita en Java 21, que traduce y convierte documentos EDIx12 a JSON, lenguaje natural y clases Java. Es una librería pensada para la comunidad de desarrolladores que brindan soluciones a transportistas.",
         challenge: "El desafío técnico consistió en la documentación y análisis del formato EDIx12 para poder aterrizar en el lenguaje de programación y que este sea lo más manipulable para el desarrollador.",
         result: "https://github.com/moisesarrona/arron-edi",
         images: [
@@ -30,7 +30,7 @@ export const PROJECTS = [
         type: "Web App",
         date: "Marzo 2021",
         client: "Bris Torres",
-        description: "Esta aplicación web automatiza procesos para un negocio de entretenimiento, administra a los empleado sy clientes, registra las entradas y salidas del almacén, agenda eventos y estos son visualizados en un calendario.",
+        description: "Esta aplicación web automatiza procesos para un negocio de entretenimiento, administra a los empleado y clientes, registra las entradas y salidas del almacén, agenda eventos y estos son visualizados en un calendario.",
         challenge: "El reto técnico consistió en el análisis del proyecto ya que se debía pensar en una solución que no consumiera recursos y que fuera fácil de usar para los usuarios no técnicos.",
         result: "https://github.com/moisesarrona/brisapp",
         images: [
@@ -54,7 +54,7 @@ export const PROJECTS = [
         type: "Web site",
         date: "Octubre del 2023",
         client: "Open Source",
-        description: "Este sitio web, es mi portafolio, muestro mi CV de manera mas dinamica y más técnica, la intención es mostrar mis habilidades en algo más 'tangible'",
+        description: "Este sitio web, es mi portafolio, muestro mi CV de manera más dinámica y más técnica, la intención es mostrar mis habilidades en algo más 'tangible'",
         challenge: "El desafío técnico fue que no sabía nada de React y Threejs, tenía conocimientos de JavaScript lo que permitió tener un panorama más amplio, el proyecto tardó un poco más de lo pensado y el resultado fue mucho mejor de lo esperado.",
         result: "https://moisesarrona.com/home",
         images: [
@@ -150,7 +150,7 @@ export const PROJECTS = [
         type: "Desktop app",
         date: "Enero del 2024",
         client: "Open Source",
-        description: "Aplicación de escritorio que permite guardar contraseña sobre accesos internos para evitar exponer dichas credecniales, incropora el uso de utilidades para el día día alarmas, recados y notas simples.",
+        description: "Aplicación de escritorio que permite guardar contraseña sobre accesos internos para evitar exponer dichas credenciales, incorpora el uso de utilidades para el día día alarmas, recados y notas simples.",
         challenge: "El desafio en este desarrollo fue aprender electron como framework para construir aplicaciones de escritorio utilizando tecnologías web, y esto permita un desarrollo multiplataforma.",
         result: "https://github.com/moisesarrona",
         images: [
@@ -169,8 +169,8 @@ export const PROJECTS = [
         type: "Web app",
         date: "Enero del 2024",
         client: "Close Source",
-        description: "Aplicación web enfocada en ofrecer un medio al usario para mostrar su trabajo al mundo. Es una red social enfocada en mostrar trabajos investigativos, experiencias, profeciales etc",
-        challenge: "El desafio técnico fue el aterrizar las ideas centrales para una red social enfocada en investigación a código.",
+        description: "Aplicación web enfocada en ofrecer un medio al usuario para mostrar su trabajo al mundo. Es una red social enfocada en mostrar trabajos investigativos, experiencias, profesionales etc",
+        challenge: "El desafío técnico fue el aterrizar las ideas centrales para una red social enfocada en investigación a código.",
         result: "https://github.com/moisesarrona",
         images: [
             "https://www.ideamotive.co/hubfs/app%20development%20cost.png"
