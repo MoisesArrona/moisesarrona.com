@@ -10,7 +10,7 @@ export const TIPS = [
             "Haz scroll para que descubras mas de mi...",
             "¿Quieres saber cuales son mis habilidades, ¡Vamos!",
             "Soy Aqruitecto de software, amo escribir codigo 👨🏻‍💻 y tocar guitarra 🎸.",
-            "Desde Java, PHP, React, Angular hasta arquitecturas y patrones de diseño"
+            "Desde Java, PHP, React, Angular hasta arquitecturas patrones de diseño y analisis"
         ],
         projects: [
             "Cuento con algunos proyectos en Github 🐙 descúbrelos",

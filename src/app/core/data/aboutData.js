@@ -1,13 +1,13 @@
 export const ABOUT = [
     "Mi nombre es Moisés Arrona, soy Ingeniero de Software, y he trabajado con varios lenguajes de programación. Tengo experiencia en el desarrollo tanto del backend como del frontend. Actualmente, vivo en México y trabajo como Arquitecto de Software.",
     "Me gusta aprender sobre tecnología, lenguajes de programación, arquitecturas de software, patrones de diseño y herramientas tecnológicas para brindar soluciones, entre otras cosas. Como hobby, me gusta programar soluciones en distintos lenguajes de programación, he creado proyectos Open Source y, bueno, también me gusta tocar la guitarra.",
-    "He trabajado en Werken como Desarrollador Frontend, en Grupo Castores como Ingeniero de Software. En la actualidad, trabajo en Grupo Flecha Amarilla como Arquitecto de Software, donde brindo soluciones tecnológicas y arquitectura para software y nube. Propongo lineamientos, guías, estándares para un desarrollo seguro y de calidad. Documento procesos, desarrollo pruebas de concepto y, obvio, programo."
+    "Trabajé en Werken como Desarrollador Frontend donde brinde en la propuestas tecnológicas, trabajé con CSS, SASS, HTML, PHP, LARAVEL, JS. En Grupo Castores trabajé como Ingeniero de Software donde daba mantenimiento a sistemas legados, analizé, propuse y desarrolle dichas propuestas, estuve encargado de de mantener y migrar módulos legados a microservicios, trabaje con JAVA, SPRINGBOOT, MySQL, SQLSERVER, ANGULAR, dirigí y capacite a el equipo con el que trabaje, sumado a esto trabajé de la mano con los clientes. En la actualidad, trabajo en Grupo Flecha Amarilla como Arquitecto de Software, donde brindó soluciones tecnológicas y arquitecturas de software y soluciones TI. Propongo lineamientos, guías, estándares para un desarrollo seguro y de calidad, propongo soluciones a alto y bajo nivel, propongo herramientas tecnológicas y las implementó, documento procesos, desarrollo pruebas de concepto y programo."
 ];
 
 export const SKILLS = [
     {
         name: "Java / SpringBoot",
-        percent: "90%"
+        percent: "85%"
     },
     {
         name: "PHP / Laravel",
@@ -15,7 +15,7 @@ export const SKILLS = [
     },
     {
         name: "C# / .Net",
-        percent: "60%"
+        percent: "50%"
     },
     {
         name: "Python / Django",
@@ -41,6 +41,18 @@ export const SKILLS = [
         name: "Microservicios / SOA",
         percent: "80%"
     },
+    {
+        name: "Arquitectura de Software / Soluciones",
+        percent: "80%"
+    },
+    {
+        name: "CI/CD",
+        percent: "80%"
+    },
+    {
+        name: "Liderazgo / Analisis",
+        percent: "70%"
+    }
 ]
 
 export const STUDIES = [
